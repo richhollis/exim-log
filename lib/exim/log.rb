@@ -1,6 +1,5 @@
 require "exim/log/version"
 require "exim/log/log_file"
-require "exim/log/line_spec"
 require "exim/log/event"
 require "exim/log/field"
 require "exim/log/flag"
